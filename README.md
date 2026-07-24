@@ -6,6 +6,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Modeling-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?logo=scikitlearn&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
  
 </div>
@@ -293,32 +294,7 @@ jupyter notebook notebooks/Prediction.ipynb
 - **Feature importance values** were not captured in the saved notebook output — only the chart. Re-run the notebook cell to reproduce exact numbers.
 - **Fiber Optic churn spike is unexplained** by this dataset — root cause (price vs. reliability vs. support) requires further investigation.
 ---
- 
-## 📄 License
 
-This project is licensed under the **MIT License**.
-
-Copyright (c) 2026 **Tushar Parihar**
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the **"Software"**), to deal
-in the Software without restriction, including without limitation the rights
-to:
-
-- Use
-- Copy
-- Modify
-- Merge
-- Publish
-- Distribute
-- Sublicense
-- Sell copies of the Software
-
-and to permit persons to whom the Software is furnished to do so, subject to
-the following condition:
-
-> The above copyright notice and this permission notice shall be included in all
-> copies or substantial portions of the Software.
 
 ### Disclaimer
 

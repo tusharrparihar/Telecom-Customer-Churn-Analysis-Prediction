@@ -15,7 +15,7 @@
  
 Telecom companies lose revenue every time a customer leaves, and it's far cheaper to retain a customer than acquire a new one. This project builds a complete churn analytics pipeline for a telecom operator:
  
-1. **Clean and structure** raw customer data using SQL
+1. **Clean and structure** raw customers data using SQL
 2. **Visualize** churn patterns across demographics, geography, contracts, and services in Power BI
 3. **Predict** which new customers are likely to churn using a Random Forest classifier, so retention teams can act *before* the customer leaves
 > **Headline result:** Of 6,563 customers, 1,727 have churned (**26.3%** churn rate). The prediction model, applied to 561 new customers, flags **538 as at-risk** — with month-to-month contracts and competitor pressure as the dominant drivers.
